@@ -1,4 +1,4 @@
-  Hiya, I’m zari!
+  Hiya, I’m grim!
   I'm interested in learning code for game and website development :D
   I’m currently learning how to make a proxy website
 
